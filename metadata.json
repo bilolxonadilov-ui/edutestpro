@@ -1,0 +1,6 @@
+{
+  "name": "EduTest Pro — Premium Test Platformasi",
+  "description": "O'quvchilar, o'qituvchilar va ma'murlar uchun zamonaviy interaktiv test platformasi: Word (.docx) test importi, Telegram orqali kirish, real vaqtli test yechish va statistik tahlil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
